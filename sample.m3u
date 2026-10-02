@@ -1,51 +1,51 @@
 #EXTM3U
 
 # ==========================================
-# CANLI TV / LIVE STREAMS
+# CANLI TV / LIVE TEST STREAMS
 # ==========================================
 
-#EXTINF:-1 tvg-id="apple_hls_1" group-title="Canli TV" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/200px-Apple_logo_black.svg.png",Apple HLS 16x9 Live Test
+#EXTINF:-1 tvg-id="apple_hls_1" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/apple_hls1.jpg",Apple HLS 16:9 Live Test
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
 
-#EXTINF:-1 tvg-id="apple_hls_2" group-title="Canli TV" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Apple_logo_black.svg/200px-Apple_logo_black.svg.png",Apple HLS 4x3 Live Test
+#EXTINF:-1 tvg-id="apple_hls_2" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/apple_hls2.jpg",Apple HLS 4:3 Live Test
 https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_4x3/bipbop_4x3_variant.m3u8
 
-#EXTINF:-1 tvg-id="mux_test" group-title="Canli TV" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/200px-Big_buck_bunny_poster_big.jpg",Mux Multi-Bitrate Test
+#EXTINF:-1 tvg-id="mux_test" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/mux_live.jpg",Mux Multi-Bitrate Live Stream
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
-#EXTINF:-1 tvg-id="akamai_test" group-title="Canli TV" tvg-type="live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tears_of_Steel_poster.jpg/200px-Tears_of_Steel_poster.jpg",Akamai HLS Test
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="unified_test" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/unified_live.jpg",Unified HLS Live Stream
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
 
 # ==========================================
 # FILMLER / MOVIES (VOD)
 # ==========================================
 
-#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/400px-Big_buck_bunny_poster_big.jpg",Big Buck Bunny (2008)
-https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/bbb_poster.jpg",Big Buck Bunny (2008)
+https://www.w3schools.com/html/mov_bbb.mp4
 
-#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tears_of_Steel_poster.jpg/400px-Tears_of_Steel_poster.jpg",Tears of Steel (2012)
-https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/tears_poster.jpg",Tears of Steel (2012)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/400px-Sintel_poster.jpg",Sintel (2010)
-https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/oceans_poster.jpg",Oceans Life (4K Nature)
+https://vjs.zencdn.net/v/oceans.mp4
 
-#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_poster.jpg/400px-Elephants_Dream_poster.jpg",Elephants Dream (2006)
-https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/sintel_poster.jpg",Botanical Nature Showcase
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
 
 
 # ==========================================
 # DIZILER / SERIES
 # ==========================================
 
-#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Big_buck_bunny_poster_big.jpg/400px-Big_buck_bunny_poster_big.jpg",Blender Open Stories S01 E01 - Big Buck Bunny
-https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep1.jpg",Blender Open Stories S01 E01 - Big Buck Bunny
+https://www.w3schools.com/html/mov_bbb.mp4
 
-#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Elephants_Dream_poster.jpg/400px-Elephants_Dream_poster.jpg",Blender Open Stories S01 E02 - Elephants Dream
-https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep2.jpg",Blender Open Stories S01 E02 - Oceans Wildlife
+https://vjs.zencdn.net/v/oceans.mp4
 
-#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Sintel_poster.jpg/400px-Sintel_poster.jpg",Blender Open Stories S01 E03 - Sintel
-https://archive.org/download/Sintel/sintel-2048-surround.mp4
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep3.jpg",Blender Open Stories S01 E03 - Botanical Garden
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
 
-#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tears_of_Steel_poster.jpg/400px-Tears_of_Steel_poster.jpg",Blender Open Stories S01 E04 - Tears of Steel
-https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep4.jpg",Blender Open Stories S01 E04 - Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
