@@ -17,6 +17,22 @@
     <display-name>Unified HLS Live Stream</display-name>
     <icon src="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/unified_live.jpg" />
   </channel>
+  <channel id="dw_english">
+    <display-name>DW News English</display-name>
+    <icon src="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/dw_english.jpg" />
+  </channel>
+  <channel id="dw_deutsch">
+    <display-name>DW News Deutsch</display-name>
+    <icon src="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/dw_deutsch.jpg" />
+  </channel>
+  <channel id="redbull_tv">
+    <display-name>Red Bull TV</display-name>
+    <icon src="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/redbull_tv.jpg" />
+  </channel>
+  <channel id="trt_world">
+    <display-name>TRT World HD</display-name>
+    <icon src="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/trt_world.jpg" />
+  </channel>
   <programme start="20260903000000 +0000" stop="20260903020000 +0000" channel="apple_hls_1">
     <title lang="tr">Gece Sineması: Açık Lisanslı Animasyonlar</title>
     <desc lang="tr">Blender Foundation tarafından üretilen açık kaynak 3D animasyon ve görsel efekt gösterimleri.</desc>

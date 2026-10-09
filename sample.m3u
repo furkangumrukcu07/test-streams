@@ -16,6 +16,18 @@ https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="unified_test" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/unified_live.jpg",Unified HLS Live Stream
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
+#EXTINF:-1 tvg-id="dw_english" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/dw_english.jpg",DW News English (Public Broadcaster)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-id="dw_deutsch" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/dw_deutsch.jpg",DW News Deutsch (Public Broadcaster)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-id="redbull_tv" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/redbull_tv.jpg",Red Bull TV (Action Sports & FAST)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="trt_world" group-title="Canli TV" tvg-type="live" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/trt_world.jpg",TRT World HD (International News)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+
 
 # ==========================================
 # FILMLER / MOVIES (VOD)
@@ -27,11 +39,20 @@ https://www.w3schools.com/html/mov_bbb.mp4
 #EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/tears_poster.jpg",Tears of Steel (2012)
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/sintel_poster.jpg",Sintel (2010)
+https://media.w3.org/2010/05/sintel/trailer.mp4
+
 #EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/oceans_poster.jpg",Oceans Life (4K Nature)
 https://vjs.zencdn.net/v/oceans.mp4
 
-#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/sintel_poster.jpg",Botanical Nature Showcase
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/botanical_poster.jpg",Botanical Nature Showcase
 https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
+
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/friday_poster.jpg",His Girl Friday (1940 Classic)
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/friday.mp4
+
+#EXTINF:-1 group-title="Filmler" tvg-type="movie" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/bluemoon_poster.jpg",View From a Blue Moon (4K Surf)
+https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4
 
 
 # ==========================================
@@ -49,3 +70,22 @@ https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
 
 #EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep4.jpg",Blender Open Stories S01 E04 - Tears of Steel
 https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep5.jpg",Blender Open Stories S01 E05 - The Dragon Quest
+https://media.w3.org/2010/05/sintel/trailer.mp4
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/series_ep6.jpg",Blender Open Stories S01 E06 - Ocean Horizons
+https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/earth_ep1.jpg",Earth & Nature 4K S01 E01 - Coral Reef Mysteries
+https://vjs.zencdn.net/v/oceans.mp4
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/earth_ep2.jpg",Earth & Nature 4K S01 E02 - Blooming Kingdom
+https://interactive-examples.mdn.mozilla.net/media/cc0-videos/flower.mp4
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/earth_ep3.jpg",Earth & Nature 4K S01 E03 - Forest Awakening
+https://www.w3schools.com/html/mov_bbb.mp4
+
+#EXTINF:-1 group-title="Diziler" tvg-type="series" tvg-logo="https://raw.githubusercontent.com/furkangumrukcu07/test-streams/main/images/earth_ep4.jpg",Earth & Nature 4K S01 E04 - The Great Swell
+https://cdn.plyr.io/static/demo/View_From_A_Blue_Moon_Trailer-720p.mp4
+
